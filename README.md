@@ -11,12 +11,11 @@
 * 性别男
 * 爱好女
 
-感兴趣的学习方向有:
+感兴趣的学习方向有
 
 1. Web前端
-2. UI/UX
-3. 计算机图形学(WebGL WebGPU)
-4. AR/VR
+2. 计算机图形学(WebGL WebGPU)
+3. AR/VR
 
 以下为一段简单的`JavaScript`代码演示
 
