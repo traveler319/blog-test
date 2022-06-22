@@ -1,20 +1,20 @@
-# 韩毅
+# 自我介绍
 
-毕业南昌航空大学通信工程专业
+我叫韩毅
 
-当过三次考研炮灰，沦为家里蹲
+* 性别男
+* 爱好女
 
-如今回炉重造，重新开始，正在学习前端
+## 感兴趣的学习方向有
 
-0. 命令行与Git
-1. HTML
-2. CSS
-3. JavaScript
-4. Vue
-5. React
-6. Node.js
-7. ···
+1. Web前端
+2. 计算机图形学
+3. UI/UX
 
+## 一段非常简单的代码演示
+```javascript
+var slogan = "Hello, world!";
+console.log(slogan);
 ```
-Everything is code here.
-```
+
+![code](code.jpg)
